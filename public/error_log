@@ -1,0 +1,2 @@
+[10-Aug-2019 06:56:00 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/maug4911/lms/app/Http/Controllers/LandingController.php on line 10
+[10-Aug-2019 06:59:38 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/maug4911/lms/app/Http/Controllers/LandingController.php on line 12

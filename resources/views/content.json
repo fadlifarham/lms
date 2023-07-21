@@ -1,0 +1,16 @@
+{
+    "landing_page": {
+        
+    },
+    "beranda": {
+        "title": "Selamat Bergabung di LMS!",
+        "welcome": "Platform ini dapat berjalan dengan baik melalui browser pada PC. Pengembangan akan terus kami lakukan untuk meningkatkan kemudahan dan kenyamanan Anda. Jika Anda memiliki pertanyaan ataupun menemukan bug dan sebagainya, mohon untuk menghubungi kami melalui email support@lms.com. Masukan Anda sangat berarti bagi kami. \n\nSalam Semangat, \n\nTim LMS"
+    },
+    "modul": {
+        "detail": "Anda akan meminta tiket sejumlah "
+    },
+    "petunjuk": {
+        "title": "Selamat Bergabung di LMS!",
+        "petunjuk": "\n1. Setelah Anda login, Anda akan dialihkan ke halaman dashboard. Buka tab modules untuk melihat daftar modul yang tersedia dan pilih 'Beli Sekarang'. \n\n2. Untuk mendapatkan modul, Anda harus membeli tiket. Pilih mode yang Anda inginkan. Terdapat 2 mode pembelian, yaitu : mode gratis dan mode berbayar dengan harga diskon.\n\n3. Setelah membeli tiket, masuk ke tab tiket untuk melihat daftar tiket yang Anda miliki. Tiket tersebut dapat digunakan untuk mengakses modul yang tertera pada tiket.\n\n4. Tiket mode gratis hanya dapat diaktifkan dalam masa aktif tiket yang terhitung sejak tanggal mulai hingga deadline. Jika melebihi deadline, maka tiket Anda secara otomatis akan hangus dan tidak dapat digunakan.\n\n5. Pilih 'Aktifkan' pada tiket yang Anda miliki. Jika tiket Anda telah aktif, Anda dapat memulai pembelajaran dengan mengikuti instruksi yang diberikan."
+    }
+}
